@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+
+# Build and distribution folders
+build/
+dist/
+*.egg-info/
+
+# OS-specific files
+# .DS_Store
+**/.DS_Store
+Thumbs.db
